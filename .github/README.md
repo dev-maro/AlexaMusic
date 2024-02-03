@@ -2,10 +2,10 @@
 
 <h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Pyrogram...</h4>
 
-<p align="center"><a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/f6064bc90cc76e59015b2.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/VIP_ALPOP"><img src="https://telegra.ph/file/f698f60484b7aef0d6f29.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/TheTeamAlexa/AlexaMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="[https://app.codacy.com/manual/TheTeamAlexa/AlexaMusic/dashboard](https://telegra.ph/file/f698f60484b7aef0d6f29.jpg)"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
     <a href="https://github.com/TheTeamAlexa/AlexaMusic"> <img src="https://img.shields.io/github/repo-size/TheTeamAlexa/AlexaMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/TheTeamAlexa/AlexaMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/TheTeamAlexa/AlexaMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/TheTeamAlexa/AlexaMusic/issues"> <img src="https://img.shields.io/github/issues/TheTeamAlexa/AlexaMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
@@ -166,10 +166,10 @@ Through this repository, we hope to share our passion for music and innovation w
 <br>
 
 # ❤️ Support<
-<a href="https://t.me/Alexa_BotUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Give_Me_Heart"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/BARALPOP"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/BARALPOP"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/VIP_ALPOP"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/SOURCE_ALPOP"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 </details>
 
